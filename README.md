@@ -1,3 +1,4 @@
+                                         unit -1
 1. Create and store a sequence of values from 5 to -11 that progresses in steps of 0.3.
 2. Overwrite the object from (1.) using the same sequence with the order reversed.
 3. Repeat the vector c(-1,3,-5,7,-9) twice, with each element repeated 10 times, and store the
@@ -77,3 +78,4 @@ in R?
 Use the vector c(3,5,7) and the vector c(2,3) with the rep function and multiplication to produce
 the vector c(6,15,21,9,15,21). How do you then replace the middle four elements with two
 alternately repeated values of -1 and -150?
+    
