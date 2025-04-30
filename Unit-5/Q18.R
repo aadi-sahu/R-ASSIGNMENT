@@ -1,0 +1,1 @@
+ggplot(df, aes(x, y, color=group)) + geom_point() + guides(color=guide_legend(title="Group Label"))

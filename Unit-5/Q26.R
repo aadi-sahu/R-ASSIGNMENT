@@ -1,0 +1,1 @@
+ggplot(df, aes(x, y, color=group)) + geom_point() + geom_line() + theme_minimal() + theme(legend.position="bottom")

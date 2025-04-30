@@ -1,0 +1,1 @@
+ggplot(df, aes(x, y)) + geom_point() + annotate("text", x=2, y=10, label="Hello") + annotate("segment", x=2, y=10, xend=3, yend=7, arrow=arrow())

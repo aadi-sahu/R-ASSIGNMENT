@@ -1,0 +1,1 @@
+ggplot(df, aes(x, y)) + geom_point(aes(shape=group, color=group))
